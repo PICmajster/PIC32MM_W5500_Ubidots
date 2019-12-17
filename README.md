@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PIC32MM_W5500
 Test Wiznet module W5500. UDP and TCP mini-serwer
 =======
@@ -15,3 +16,7 @@ PIC32MM + W5500 - HTTP send data for Ubidots
 # PIC32MM_W5500_Ubidots
 PIC32MM + ethernet module W5500, TCP connect Ubidots cloud
 >>>>>>> 20334ea21fcbe2554d13fec39c42909501c08d15
+=======
+# PIC32MM_W5500_Ubidots
+PIC32MM + ethernet module W5500, TCP connect Ubidots cloud
+>>>>>>> 4aa04b943a56fdb45340590de8dccc14f3f353a4
